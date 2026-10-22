@@ -1,0 +1,6 @@
+{
+  "name": "KiranaVoice",
+  "description": "Offline-first Voice Billing and Inventory Management for Indian kirana stores supporting English, Telugu, and mixed commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Basket Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,48 L76,48 L70,78 C69.5,80.5 67.5,82 65,82 L43,82 C40.5,82 38.5,80.5 38,78 Z" />
+    <!-- Basket Rim -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M29,44 L79,44 C80.7,44 82,45.3 82,47 C82,48.7 80.7,50 79,50 L29,50 C27.3,50 26,48.7 26,47 C26,45.3 27.3,44 29,44 Z" />
+    <!-- Basket Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M38,44 C38,32 70,32 70,44" />
+    <!-- Basket Slits -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M44,55 L46,74 L49,74 L47,55 Z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M52.5,55 L52.5,74 L55.5,74 L55.5,55 Z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M61,55 L59,74 L62,74 L64,55 Z" />
+    <!-- Rupee / Grocery Sparkle on top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C53,26 50,30 54,34 C58,30 55,26 54,26 Z" />
+</vector>

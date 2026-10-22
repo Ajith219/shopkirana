@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KiranaVoice</string>
+    <string name="tagline">Voice Billing &amp; Inventory / వాయిస్ బిల్లింగ్ &amp; స్టాక్</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_billing">Billing / బిల్లింగ్</string>
+    <string name="nav_inventory">Inventory / సరుకులు</string>
+    <string name="nav_sales">Daily Sales / అమ్మకాలు</string>
+    
+    <!-- Voice Hints -->
+    <string name="voice_listening">Listening… మాట్లాడండి</string>
+    <string name="voice_tap_to_speak">Tap mic or use voice commands</string>
+    <string name="voice_example_add_en">"Add two kilos of rice"</string>
+    <string name="voice_example_add_te">"రెండు కిలోల బియ్యం add cheyyi"</string>
+    <string name="voice_example_stock_te">"Oil stock entha undi?"</string>
+    <string name="voice_example_sales_en">"Show today\'s sales"</string>
+    
+    <!-- Billing Screen -->
+    <string name="cart_empty">No items added to current bill yet</string>
+    <string name="cart_empty_sub">Speak a command or tap quick-add items below</string>
+    <string name="current_bill">Current Bill / ప్రస్తుత బిల్లు</string>
+    <string name="bill_total">Total Amount / మొత్తం బిల్లు</string>
+    <string name="btn_complete_bill">Complete Bill &amp; Deduct Stock (₹)</string>
+    <string name="btn_clear_bill">Clear Bill</string>
+    <string name="qty">Qty</string>
+    <string name="rate">Rate</string>
+    <string name="amount">Amount</string>
+    
+    <!-- Stock & Inventory -->
+    <string name="in_stock">In Stock</string>
+    <string name="low_stock">Low Stock!</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="add_product">Add Product</string>
+    <string name="search_products">Search by English, Telugu, or Tanglish…</string>
+    
+    <!-- Dialogs -->
+    <string name="confirm_voice_action">Confirm Voice Action</string>
+    <string name="confirm_checkout">Confirm Payment &amp; Print Bill</string>
+    <string name="insufficient_stock_title">Stock Shortage / సరుకు కొరత</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+</resources>
